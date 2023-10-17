@@ -1,0 +1,1 @@
+Para archivos de configuración del proyecto, como archivos de configuración de bases de datos, configuraciones de entorno, etc.

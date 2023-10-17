@@ -1,0 +1,1 @@
+ Para registros y archivos de registro del proyecto.

@@ -1,0 +1,1 @@
+Para archivos temporales o cachés generados durante el desarrollo, que se pueden eliminar sin problema.

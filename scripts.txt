@@ -1,0 +1,1 @@
+ Puedes utilizar esta carpeta para almacenar scripts de automatización de tareas, como scripts de despliegue, migraciones de bases de datos, o cualquier tarea que automatice parte del flujo de trabajo.

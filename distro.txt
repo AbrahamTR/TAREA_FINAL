@@ -1,0 +1,1 @@
+Para almacenar distribuciones compiladas o instalables del proyecto, como paquetes de instalación, contenedores Docker, etc.

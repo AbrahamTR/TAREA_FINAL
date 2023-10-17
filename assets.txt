@@ -1,0 +1,1 @@
+Para recursos estáticos como imágenes, archivos de configuración, hojas de estilo, fuentes, etc.

@@ -1,0 +1,2 @@
+Para los archivos binarios o compilados del proyecto, como ejecutables o archivos distribuibles.
+

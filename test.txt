@@ -1,0 +1,1 @@
+ Donde se almacenan las pruebas unitarias y de integración. La organización de pruebas puede ser en subcarpetas por módulo o función.

@@ -1,0 +1,1 @@
+ En proyectos web, esta carpeta puede contener los archivos accesibles públicamente, como HTML, CSS, JavaScript, imágenes, y otros recursos web.
